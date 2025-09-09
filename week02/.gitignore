@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+.next/
+.DS_Store
+out/
+dist/
+build/
+.env
+.vscode/
+.idea/
+*.log
+*.tsbuildinfo
+coverage/
